@@ -11,4 +11,7 @@ Using the test_ai() function you can play with the AI.
 
  For more info check out the Neat algorithm at https://neat-python.readthedocs.io/en/latest/neat_overview.html
 
- Check my two-player pong at
+ Check my two-player pong at https://github.com/RoboCop1049/pong
+
+Enjoy!!
+-x-x-x-x-x-
